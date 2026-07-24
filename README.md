@@ -2,7 +2,7 @@
 
 # 🚀 Snèh AI — Private, High-Speed AI Assistant
 
-> **Your Private, Web-Connected AI Companion Powered by Groq® LPU™ Hardware Speed & Zero-Retention Data Privacy.**
+> **Your Private, Web-Connected AI Companion Powered by Sneh V3® LPU™ Hardware Speed & Zero-Retention Data Privacy.**
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/snehai/deploy-status)](https://snehai.netlify.app/)
 ![Version](https://img.shields.io/badge/version-5.2.5-0B57CF?style=flat-square)
@@ -20,13 +20,13 @@
 
 **Snèh AI** (also known as **Sneh AI**) is an advanced, web-grounded artificial intelligence companion engineered by **DBC Technologies** (DBC Technologies Narwana) in collaboration with **VIDHI Projects Chandigarh**. 
 
-Designed to prioritize user data sovereignty and real-time responsiveness, Snèh AI routes user queries through optimized **Groq® Language Processing Units (LPUs)**, delivering sub-100ms response streaming latency with zero public model training on private messages.
+Designed to prioritize user data sovereignty and real-time responsiveness, Snèh AI routes user queries through optimized **Sneh V3® Language Processing Units (LPUs)**, delivering sub-100ms response streaming latency with zero public model training on private messages.
 
 ---
 
 ## 🌟 Primary Capabilities & Key Features
 
-- ⚡ **Groq® LPU™ Hardware Acceleration**: Engineered for ultra-fast token streaming, reducing initial token wait times for real-time coding and reasoning.
+- ⚡ **Sneh V3® LPU™ Hardware Acceleration**: Engineered for ultra-fast token streaming, reducing initial token wait times for real-time coding and reasoning.
 - 🔒 **Zero-Retention RAM Architecture**: Conversations exist strictly in volatile server RAM during answer generation and are flushed immediately upon connection closure. Prompts are **never** used to train public LLMs.
 - 🌐 **Real-Time Web Grounding**: Integrated live web search toggle enables Snèh AI to fetch up-to-date facts, documentation, and news with URL citations.
 - 💻 **Developer Code Tools**: Built-in syntax highlighting, multi-language code debugging, prompt templates, and PDF export capabilities.
@@ -39,7 +39,7 @@ Designed to prioritize user data sovereignty and real-time responsiveness, Snèh
 
 | Feature Dimension | Snèh AI | Standard Consumer AI Chatbots |
 | :--- | :--- | :--- |
-| **Inference Hardware** | Dedicated Groq® LPU™ Accelerators | Standard Shared GPU Clusters |
+| **Inference Hardware** | Dedicated Sneh V3® LPU™ Accelerators | Standard Shared GPU Clusters |
 | **User Message Privacy** | **Zero User Data Retention** | Retained for Model Training (Unless Opted Out) |
 | **Session Processing** | Volatile RAM Buffer Session Flushing | Persistent Server Database Logging |
 | **Web Search Integration** | Free Integrated Toggleable Search | Account-Gated / Subscription Tier |
