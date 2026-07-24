@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- XML Editor 4.3.5 (95) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Core App Launcher -->
+  <url>
+    <loc>https://snehai.netlify.app/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <image:image>
+      <image:loc>https://snehai.netlify.app/icons/sneh-ai-og.webp</image:loc>
+      <image:title>Snèh AI — Private AI Assistant</image:title>
+    </image:image>
+  </url>
+
+  <!-- Product Features & Technology Stack -->
+  <url>
+    <loc>https://snehai.netlify.app/features/</loc>
+    <lastmod>2026-07-23</lastmod>
+  </url>
+
+  <!-- Documentation & User Guides -->
+  <url>
+    <loc>https://snehai.netlify.app/docs/</loc>
+    <lastmod>2026-07-23</lastmod>
+  </url>
+
+  <!-- Frequently Asked Questions -->
+  <url>
+    <loc>https://snehai.netlify.app/faq/</loc>
+    <lastmod>2026-07-23</lastmod>
+  </url>
+
+  <!-- Security & Infrastructure Architecture -->
+  <url>
+    <loc>https://snehai.netlify.app/security/</loc>
+    <lastmod>2026-07-23</lastmod>
+  </url>
+
+  <!-- Progressive Web App (PWA) Installation Guide -->
+  <url>
+    <loc>https://snehai.netlify.app/install/</loc>
+    <lastmod>2026-07-23</lastmod>
+  </url>
+
+  <!-- Privacy Architecture & Data Policies -->
+  <url>
+    <loc>https://snehai.netlify.app/privacy/</loc>
+    <lastmod>2026-07-23</lastmod>
+  </url>
+
+  <!-- Organization & Entity Profile -->
+  <url>
+    <loc>https://snehai.netlify.app/about/</loc>
+    <lastmod>2026-07-23</lastmod>
+  </url>
+
+  <!-- Version History & Updates -->
+  <url>
+    <loc>https://snehai.netlify.app/changelog/</loc>
+    <lastmod>2026-07-23</lastmod>
+  </url>
+
+  <!-- Objective Platform Comparison -->
+  <url>
+    <loc>https://snehai.netlify.app/vs-chatgpt/</loc>
+    <lastmod>2026-07-23</lastmod>
+  </url>
+
+</urlset>
