@@ -9,7 +9,7 @@
 // ================================================================
 // bol sat.shree.akal maharaaj ki jai
 
-const BUILD_VERSION = 'snehai-2.ANI/C/34.25.2191.g.Lang'; 
+const BUILD_VERSION = 'snehai-5.2.5'; 
 const CORE_CACHE_NAME = `sneh-ai-core-${BUILD_VERSION}`;
 const CDN_CACHE_NAME = `sneh-ai-cdn-v1`; // Dedicated cache keeps CDNs intact across minor local updates
 
