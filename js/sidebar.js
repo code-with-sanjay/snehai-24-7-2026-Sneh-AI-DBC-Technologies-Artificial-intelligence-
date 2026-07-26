@@ -282,3 +282,26 @@ function initOfflineToggleUI() {
 
 // Preload sidebar template
 loadSidebarContent();
+// Add this at the bottom of js/sidebar.js
+(function initCapsuleTicker() {
+  const phrases = [
+    "Local models & zero latency",
+    "100% private on-device processing",
+    "Works without internet connection",
+    "Sub-100ms instant streaming"
+  ];
+  let index = 0;
+
+  setInterval(() => {
+    const el = document.getElementById("capsule-subtext-dynamic");
+    if (!el) return;
+
+    el.classList.add("fade-out");
+
+    setTimeout(() => {
+      index = (index + 1) % phrases.length;
+      el.textContent = phrases[index];
+      el.classList.remove("fade-out");
+    }, 350);
+  }, 3500);
+})();
